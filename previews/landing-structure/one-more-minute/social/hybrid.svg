@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fbfaf7"/>
+  <circle cx="1080" cy="40" r="250" fill="#e4efec"/>
+  <circle cx="1110" cy="115" r="130" fill="#efd9bf" opacity=".68"/>
+  <g transform="translate(72 52) scale(1.375)">
+    <rect width="64" height="64" rx="18" fill="#38345f"/>
+    <path fill="#ffdb94" d="M36 10.2a22.6 22.6 0 1 0 18.2 29.5c.3-.9-.7-1.5-1.4-.9a17.9 17.9 0 0 1-16.3-27c.5-.7.2-1.4-.5-1.6Z"/>
+    <path fill="none" stroke="#54415a" stroke-width="2.7" stroke-linecap="round" d="M16.4 31.2q3.4 5.8 8.5 1.2"/>
+    <path fill="#fff0c2" d="M44.5 12.8c1.1 5.2 2.6 6.8 7.3 8.2-4.7 1.2-6.2 3-7.3 8.2-1.2-5.2-2.7-7-7.4-8.2 4.7-1.4 6.2-3 7.4-8.2Z"/>
+  </g>
+  <text x="183" y="112" font-family="system-ui, sans-serif" font-size="46" font-weight="700" fill="#292639">Баюбай</text>
+  <rect x="72" y="194" width="230" height="44" rx="22" fill="#e4efec"/>
+  <text x="187" y="223" text-anchor="middle" font-family="system-ui, sans-serif" font-size="21" fill="#365c57">Telegram</text>
+  <text x="72" y="316" font-family="system-ui, sans-serif" font-size="60" font-weight="700" fill="#26312f">Малыш плохо спит —</text>
+  <text x="72" y="390" font-family="system-ui, sans-serif" font-size="60" font-weight="700" fill="#26312f">подскажем, что делать</text>
+  <text x="72" y="464" font-family="system-ui, sans-serif" font-size="60" font-weight="700" fill="#26312f">шаг за шагом</text>
+  <g transform="translate(790 158)">
+    <rect width="330" height="360" rx="38" fill="#fff" stroke="#dce3de" stroke-width="3"/>
+    <text x="34" y="55" font-family="system-ui, sans-serif" font-size="22" fill="#61706c">Сегодня</text>
+    <text x="34" y="115" font-family="system-ui, sans-serif" font-size="18" fill="#61706c">Последний сон</text>
+    <text x="34" y="166" font-family="system-ui, sans-serif" font-size="34" font-weight="700" fill="#26312f">13:30–14:10</text>
+    <rect x="28" y="205" width="274" height="118" rx="22" fill="#e4efec"/>
+    <text x="50" y="245" font-family="system-ui, sans-serif" font-size="19" font-weight="700" fill="#365c57">Что дальше?</text>
+    <text x="50" y="279" font-family="system-ui, sans-serif" font-size="17" fill="#365c57">Запишите сон</text>
+    <text x="50" y="304" font-family="system-ui, sans-serif" font-size="17" fill="#365c57">и задайте вопрос</text>
+  </g>
+</svg>
